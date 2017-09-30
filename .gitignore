@@ -73,3 +73,9 @@ Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+
+
+# Too Big Umaps
+BattleTank/Content/Levels/Battleground_Height.umap
+BattleTank/Content/Battleground_Height.umap
